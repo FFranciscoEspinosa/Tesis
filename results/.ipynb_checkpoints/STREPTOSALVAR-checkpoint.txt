@@ -1,0 +1,1057 @@
+se buscan ciclos en el tiempo 2.0 para TCA
+se buscan ciclos en el tiempo 2.0 para E4P_AMINO_ACIDS
+se buscan ciclos en el tiempo 2.0 para Glycolysis
+se buscan ciclos en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+se buscan ciclos en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+se buscan ciclos en el tiempo 2.0 para R5P_AMINOACIDS
+se buscan ciclos en el tiempo 2.0 para PYR_THR_AA
+se buscan ciclos en el tiempo 2.0 para PPP
+se buscan ciclos en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [77, 108, 59, 101, 5] en el tiempo 2.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [89, 166, 62, 120, 59, 101, 5] en el tiempo 2.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [41, 93, 55, 69] en el tiempo 2.0 para OXALACETATE_AMINOACIDS
+se buscan ciclos en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [144, 65, 160, 93, 19, 7] en el tiempo 1.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [282, 101, 138, 98] en el tiempo 1.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [121, 113, 120, 7] en el tiempo 1.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [138, 108, 67, 160, 65, 61] en el tiempo 1.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [148, 69, 120, 7] en el tiempo 1.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [148, 152, 19, 7] en el tiempo 1.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [140, 281, 18, 1] en el tiempo 1.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [152, 118, 93, 19] en el tiempo 1.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [55, 81, 15, 109] en el tiempo 1.0 para E4P_AMINO_ACIDS
+se buscan ciclos en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [63, 62, 41, 2] en el tiempo 1.0 para PYR_THR_AA
+Se encontró el ciclo [136, 70, 68, 54] en el tiempo 1.0 para PYR_THR_AA
+Se encontró el ciclo [303, 172, 39, 0] en el tiempo 1.0 para PYR_THR_AA
+Se encontró el ciclo [54, 136, 114, 104, 98, 62, 41] en el tiempo 1.0 para PYR_THR_AA
+Se encontró el ciclo [174, 100, 11, 0] en el tiempo 1.0 para PYR_THR_AA
+Se encontró el ciclo [303, 111, 173, 135] en el tiempo 1.0 para PYR_THR_AA
+Se encontró el ciclo [303, 135, 136, 114, 221, 33, 39, 0] en el tiempo 1.0 para PYR_THR_AA
+se buscan ciclos en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [98, 17, 3, 11] en el tiempo 1.0 para TCA
+Se encontró el ciclo [112, 18, 98, 11] en el tiempo 1.0 para TCA
+Se encontró el ciclo [35, 70, 24, 8] en el tiempo 1.0 para TCA
+Se encontró el ciclo [115, 26, 110, 20] en el tiempo 1.0 para TCA
+Se encontró el ciclo [45, 25, 39, 33] en el tiempo 1.0 para TCA
+Se encontró el ciclo [50, 41, 39, 33] en el tiempo 1.0 para TCA
+Se encontró el ciclo [98, 75, 24, 11] en el tiempo 1.0 para TCA
+Se encontró el ciclo [63, 23, 47, 0] en el tiempo 1.0 para TCA
+Se encontró el ciclo [32, 8, 24, 11] en el tiempo 1.0 para TCA
+Se encontró el ciclo [112, 34, 47, 0] en el tiempo 1.0 para TCA
+Se encontró el ciclo [45, 42, 77, 71, 76, 81, 25] en el tiempo 1.0 para TCA
+Se encontró el ciclo [81, 65, 39, 25] en el tiempo 1.0 para TCA
+Se encontró el ciclo [65, 26, 41, 39] en el tiempo 1.0 para TCA
+Se encontró el ciclo [40, 49, 39, 33] en el tiempo 1.0 para TCA
+Se encontró el ciclo [63, 32, 11, 0] en el tiempo 1.0 para TCA
+Se encontró el ciclo [68, 105, 51, 44] en el tiempo 1.0 para TCA
+Se encontró el ciclo [92, 84, 11, 0] en el tiempo 1.0 para TCA
+Se encontró el ciclo [110, 26, 41, 94, 74, 234, 20] en el tiempo 1.0 para TCA
+Se encontró el ciclo [47, 24, 11, 0] en el tiempo 1.0 para TCA
+Se encontró el ciclo [45, 67, 40, 33] en el tiempo 1.0 para TCA
+Se encontró el ciclo [44, 94, 41, 39] en el tiempo 1.0 para TCA
+Se encontró el ciclo [62, 53, 45, 42] en el tiempo 1.0 para TCA
+Se encontró el ciclo [81, 68, 44, 25] en el tiempo 1.0 para TCA
+Se encontró el ciclo [66, 87, 63, 23] en el tiempo 1.0 para TCA
+Se encontró el ciclo [75, 8, 23, 5] en el tiempo 1.0 para TCA
+Se encontró el ciclo [75, 24, 47, 5] en el tiempo 1.0 para TCA
+Se encontró el ciclo [72, 39, 41, 94, 74, 234, 2] en el tiempo 1.0 para TCA
+Se encontró el ciclo [38, 50, 33, 13] en el tiempo 1.0 para TCA
+Se encontró el ciclo [234, 2, 21, 20] en el tiempo 1.0 para TCA
+Se encontró el ciclo [20, 21, 19, 7] en el tiempo 1.0 para TCA
+Se encontró el ciclo [51, 44, 39, 33] en el tiempo 1.0 para TCA
+Se encontró el ciclo [45, 42, 38, 13] en el tiempo 1.0 para TCA
+Se encontró el ciclo [66, 64, 47, 23] en el tiempo 1.0 para TCA
+se buscan ciclos en el tiempo 3.0 para TCA
+Se encontró el ciclo [4, 52, 1, 7] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [54, 101, 52, 1] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [54, 96, 23, 5] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [99, 78, 66, 57] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [54, 96, 15, 1] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [54, 26, 49, 1] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [52, 53, 49, 1] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [46, 33, 7, 5] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [111, 41, 99, 57] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [18, 21, 7, 5] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [22, 0, 7, 2] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [11, 13, 6, 0] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [36, 39, 25, 4] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [22, 6, 5, 2] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [54, 1, 7, 5] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [27, 21, 7, 0] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [11, 4, 7, 0] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [50, 44, 23, 5] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [14, 4, 7, 5] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [57, 99, 54, 1] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [10, 25, 7, 2] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [101, 60, 99, 54] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [101, 60, 94, 52] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [54, 55, 29, 5] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [78, 99, 60, 35] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [14, 13, 6, 5] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [124, 114, 91, 1] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [91, 92, 73, 66] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [21, 49, 1, 7] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [57, 111, 34, 87, 95, 61, 1] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [54, 101, 14, 5] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [61, 1, 7, 0] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [54, 26, 18, 5] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [50, 16, 14, 5] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [12, 25, 7, 0] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [18, 38, 14, 5] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [33, 51, 21, 7] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [103, 99, 54, 26] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [10, 40, 5, 2] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [57, 94, 52, 1] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [91, 66, 57, 1] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [46, 28, 14, 5] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [146, 63, 117, 140] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [140, 117, 89, 102] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [109, 79, 89, 74] en el tiempo 1.0 para R5P_AMINOACIDS
+Se encontró el ciclo [89, 117, 63, 74] en el tiempo 1.0 para R5P_AMINOACIDS
+se buscan ciclos en el tiempo 3.0 para R5P_AMINOACIDS
+Se encontró el ciclo [276, 120, 112, 35] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [279, 64, 85, 29] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [124, 3, 112, 38] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [85, 29, 25, 13] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [110, 125, 70, 5] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [276, 131, 79, 35] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [102, 109, 58, 5] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [110, 119, 102, 5] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [157, 107, 25, 13] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [122, 86, 93, 79] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [109, 100, 101, 58] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [109, 286, 103, 102] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [109, 286, 107, 100] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [100, 101, 97, 25] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [107, 286, 103, 11] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [276, 46, 89, 35] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [157, 11, 45, 15] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [110, 3, 57, 5] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [113, 36, 101, 58] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [91, 85, 13, 0] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [122, 79, 45, 15] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [58, 101, 97, 89, 57, 5] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [112, 57, 89, 35] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [25, 97, 89, 35, 112, 38, 50, 63, 64, 85, 13] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [43, 115, 26, 57, 5, 69, 10] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [15, 45, 89, 57, 5, 69, 10] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [89, 45, 79, 35] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [107, 11, 45, 89, 97, 25] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [43, 95, 15, 10] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [276, 131, 153, 120] en el tiempo 1.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+se buscan ciclos en el tiempo 3.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [114, 13, 19, 21, 101, 5] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [47, 67, 57, 301, 10] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [166, 114, 20, 27] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [17, 122, 115, 28] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [128, 298, 125, 132] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [62, 67, 57, 117, 5] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [41, 77, 114, 20, 69] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [123, 131, 172, 44, 43, 112] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [117, 133, 28, 27, 166, 5] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [128, 21, 304, 130, 132] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [21, 27, 166, 101] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [165, 133, 161, 10] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [304, 21, 101, 64] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [130, 304, 68, 157, 72, 143, 132] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [166, 27, 17, 111, 101] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [47, 87, 88, 165, 10] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [123, 131, 132, 128, 21, 27] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [62, 67, 47, 106, 68, 304, 64, 5] en el tiempo 3.0 para OXALACETATE_AMINOACIDS
+se buscan ciclos en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [139, 170, 69, 71] en el tiempo 1.0 para PPP
+Se encontró el ciclo [67, 11, 2, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [63, 86, 90, 113, 44, 18] en el tiempo 1.0 para PPP
+Se encontró el ciclo [88, 18, 20, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [112, 102, 82, 78, 69, 113, 76, 47] en el tiempo 1.0 para PPP
+Se encontró el ciclo [38, 76, 17, 9] en el tiempo 1.0 para PPP
+Se encontró el ciclo [33, 50, 32, 9] en el tiempo 1.0 para PPP
+Se encontró el ciclo [145, 176, 140, 97] en el tiempo 1.0 para PPP
+Se encontró el ciclo [31, 68, 13, 5] en el tiempo 1.0 para PPP
+Se encontró el ciclo [67, 12, 55, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [49, 43, 48, 1] en el tiempo 1.0 para PPP
+Se encontró el ciclo [11, 31, 5, 2] en el tiempo 1.0 para PPP
+Se encontró el ciclo [55, 44, 20, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [118, 83, 38, 9] en el tiempo 1.0 para PPP
+Se encontró el ciclo [13, 32, 9, 5] en el tiempo 1.0 para PPP
+Se encontró el ciclo [67, 6, 49, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [49, 47, 16, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [49, 47, 38, 9] en el tiempo 1.0 para PPP
+Se encontró el ciclo [48, 13, 5, 1] en el tiempo 1.0 para PPP
+Se encontró el ciclo [30, 31, 5, 1] en el tiempo 1.0 para PPP
+Se encontró el ciclo [53, 54, 38, 9] en el tiempo 1.0 para PPP
+Se encontró el ciclo [67, 30, 1, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [33, 50, 28, 11] en el tiempo 1.0 para PPP
+Se encontró el ciclo [31, 68, 28, 11] en el tiempo 1.0 para PPP
+Se encontró el ciclo [33, 24, 25, 9] en el tiempo 1.0 para PPP
+Se encontró el ciclo [20, 15, 14, 4] en el tiempo 1.0 para PPP
+Se encontró el ciclo [49, 43, 32, 9] en el tiempo 1.0 para PPP
+Se encontró el ciclo [42, 120, 38, 9] en el tiempo 1.0 para PPP
+Se encontró el ciclo [162, 126, 145, 59] en el tiempo 1.0 para PPP
+Se encontró el ciclo [55, 56, 48, 1] en el tiempo 1.0 para PPP
+Se encontró el ciclo [20, 15, 1, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [169, 176, 16, 7] en el tiempo 1.0 para PPP
+Se encontró el ciclo [169, 176, 145, 59] en el tiempo 1.0 para PPP
+Se encontró el ciclo [76, 113, 44, 17] en el tiempo 1.0 para PPP
+Se encontró el ciclo [67, 26, 20, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [2, 5, 1, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [136, 95, 102, 82] en el tiempo 1.0 para PPP
+Se encontró el ciclo [153, 134, 139, 71] en el tiempo 1.0 para PPP
+Se encontró el ciclo [11, 33, 9, 2] en el tiempo 1.0 para PPP
+Se encontró el ciclo [27, 44, 20, 4] en el tiempo 1.0 para PPP
+Se encontró el ciclo [49, 9, 2, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [49, 17, 20, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [170, 69, 113, 54] en el tiempo 1.0 para PPP
+Se encontró el ciclo [55, 53, 2, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [33, 22, 17, 9] en el tiempo 1.0 para PPP
+Se encontró el ciclo [48, 56, 27, 14] en el tiempo 1.0 para PPP
+Se encontró el ciclo [48, 14, 15, 1] en el tiempo 1.0 para PPP
+Se encontró el ciclo [145, 39, 110, 73] en el tiempo 1.0 para PPP
+Se encontró el ciclo [53, 62, 25, 9] en el tiempo 1.0 para PPP
+Se encontró el ciclo [76, 113, 54, 38] en el tiempo 1.0 para PPP
+Se encontró el ciclo [33, 22, 26, 11] en el tiempo 1.0 para PPP
+Se encontró el ciclo [16, 7, 1, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [122, 118, 2, 0] en el tiempo 1.0 para PPP
+Se encontró el ciclo [49, 6, 33, 9] en el tiempo 1.0 para PPP
+se buscan ciclos en el tiempo 3.0 para PPP
+Se encontró el ciclo [136, 5, 77, 38] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [91, 22, 33, 8] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [109, 16, 91, 8] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [91, 103, 21, 7] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [133, 62, 57, 41] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [85, 36, 79, 27] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [135, 100, 101, 84] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [100, 52, 35, 21] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [261, 84, 101, 48] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [136, 38, 132, 7] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [116, 263, 45, 32] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [132, 78, 27, 26] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [106, 104, 81, 26] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [91, 82, 80, 8] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [117, 49, 263, 116, 81, 264, 46] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [136, 42, 36, 22] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [116, 43, 79, 27] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [91, 79, 36, 22] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [81, 125, 45, 32] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [145, 102, 91, 8] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [263, 57, 62, 135, 100, 51] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [106, 105, 41, 26] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [79, 42, 32, 27] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [100, 61, 97, 51] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [132, 38, 32, 26] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [126, 144, 91, 8] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [106, 104, 64, 29] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [102, 260, 36, 22] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [79, 133, 41, 27] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [133, 62, 25, 42] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [45, 57, 41, 32] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [92, 39, 32, 26] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [45, 25, 42, 32] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [96, 73, 41, 32] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [101, 100, 51, 48] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [37, 127, 35, 21] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [108, 96, 42, 13] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [89, 125, 45, 25] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [101, 5, 77, 48] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [263, 51, 48, 77, 124, 45] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [136, 5, 84, 135, 21, 7] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [91, 79, 13, 108, 23, 8] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [21, 61, 20, 7] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [79, 91, 78, 27] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [132, 78, 91, 7] en el tiempo 1.0 para Glycolysis
+Se encontró el ciclo [124, 77, 38, 32] en el tiempo 1.0 para Glycolysis
+se buscan ciclos en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [113, 120, 115, 5] en el tiempo 2.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [8, 136, 2, 151, 114, 64] en el tiempo 2.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [98, 49, 45, 48, 15, 61] en el tiempo 2.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [140, 69, 112, 82, 18] en el tiempo 2.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [58, 86, 71, 64, 8, 136, 26, 5] en el tiempo 2.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [143, 44, 37, 61] en el tiempo 2.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [119, 118, 160, 108] en el tiempo 2.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [138, 13, 26, 5] en el tiempo 2.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [138, 108, 54, 5] en el tiempo 2.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [150, 123, 140, 1] en el tiempo 2.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [113, 55, 93, 7] en el tiempo 2.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [138, 101, 39, 5] en el tiempo 2.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [144, 163, 67, 61] en el tiempo 2.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [160, 93, 55, 81] en el tiempo 2.0 para E4P_AMINO_ACIDS
+se buscan ciclos en el tiempo 4.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [173, 148, 144, 64] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [116, 92, 87, 20] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [70, 101, 67, 2] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [87, 81, 47, 16] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [66, 90, 23, 27] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [187, 128, 140, 105] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [112, 73, 69, 27] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [80, 133, 5, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [164, 173, 64, 44] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [112, 52, 66, 27] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [131, 136, 105, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [194, 129, 97, 71] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [71, 86, 47, 16] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [87, 39, 30, 16] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [96, 65, 34, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [53, 88, 46, 43] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [164, 161, 80, 44] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [213, 91, 49, 6] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [77, 109, 41, 0] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [118, 53, 88, 3] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [120, 26, 49, 34] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [165, 161, 80, 29] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [133, 129, 97, 80] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [204, 157, 105, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [105, 140, 29, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [168, 17, 41, 10] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [111, 72, 77, 0] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [87, 212, 36, 16] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [99, 84, 78, 35] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [123, 194, 71, 18] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [45, 54, 77, 119, 18, 3] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [105, 187, 34, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [84, 78, 23, 27] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [99, 84, 27, 10] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [96, 85, 80, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [116, 20, 96, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [43, 66, 27, 10] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [111, 39, 23, 27] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [192, 154, 20, 6] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [80, 44, 64, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [51, 25, 33, 21] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [131, 119, 80, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [168, 53, 43, 10] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [47, 3, 18, 16] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [85, 88, 47, 16] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [168, 99, 67, 2] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [93, 57, 56, 23] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [80, 97, 34, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [205, 132, 125, 85] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [131, 159, 29, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [173, 143, 182, 167, 141, 159, 131, 64] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [213, 89, 95, 6] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [86, 90, 45, 3] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [93, 120, 84, 27] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [41, 109, 40, 17] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [87, 23, 71, 16] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [119, 97, 71, 18] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [190, 135, 178, 196, 144, 105] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [29, 200, 186, 151, 206, 131, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [80, 94, 49, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [88, 46, 45, 3] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [90, 81, 87, 23] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [200, 186, 184, 124, 134, 175, 167, 141, 159, 29] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [103, 102, 97, 71] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [119, 77, 72, 9] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [87, 56, 12, 16] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [213, 91, 93, 23] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [200, 107, 80, 29] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [112, 79, 84, 27] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [87, 213, 61, 16] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [100, 37, 77, 0] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [93, 92, 87, 23] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [71, 65, 20, 16] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [84, 120, 83, 33] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [96, 6, 49, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [91, 57, 83, 26] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [87, 82, 62, 16] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [96, 95, 64, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [67, 33, 21, 19, 15, 2] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [81, 90, 52, 28] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [69, 89, 23, 27] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [84, 79, 7, 67] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [77, 93, 27, 0] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [94, 40, 17, 15] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [66, 90, 46, 43] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [187, 144, 148, 138] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [119, 38, 36, 18] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [100, 212, 23, 27] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [93, 34, 65, 23] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [168, 85, 16, 2] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [94, 49, 19, 15] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [119, 9, 30, 18] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [168, 80, 94, 15] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [94, 26, 68, 40] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [72, 39, 30, 9] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [88, 85, 35, 24] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [187, 138, 137, 128] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [85, 71, 78, 35] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [72, 109, 40, 9] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [192, 173, 95, 6] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [119, 40, 76, 18] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [16, 61, 15, 2] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [20, 50, 12, 16] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [61, 6, 19, 15] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [50, 21, 19, 6] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [105, 144, 64, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [61, 6, 20, 16] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [184, 158, 134, 124] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [47, 81, 45, 3] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [105, 190, 96, 1] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [72, 37, 38, 9] en el tiempo 1.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [17, 76, 16, 2] en el tiempo 1.0 para 3PGA_AMINOACIDS
+se buscan ciclos en el tiempo 3.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [179, 170, 106, 90] en el tiempo 2.0 para TCA
+Se encontró el ciclo [234, 110, 78, 0] en el tiempo 2.0 para TCA
+Se encontró el ciclo [99, 44, 2, 11] en el tiempo 2.0 para TCA
+Se encontró el ciclo [131, 170, 106, 90] en el tiempo 2.0 para TCA
+Se encontró el ciclo [131, 155, 160, 184, 116] en el tiempo 2.0 para TCA
+Se encontró el ciclo [234, 69, 63, 0] en el tiempo 2.0 para TCA
+Se encontró el ciclo [135, 193, 106, 90] en el tiempo 2.0 para TCA
+Se encontró el ciclo [1, 90, 92, 0] en el tiempo 2.0 para TCA
+Se encontró el ciclo [82, 65, 21, 3] en el tiempo 2.0 para TCA
+Se encontró el ciclo [159, 184, 160, 227, 1] en el tiempo 2.0 para TCA
+Se encontró el ciclo [88, 89, 82, 61] en el tiempo 2.0 para TCA
+Se encontró el ciclo [90, 106, 122, 123, 160, 227, 1] en el tiempo 2.0 para TCA
+Se encontró el ciclo [234, 232, 5, 0] en el tiempo 2.0 para TCA
+Se encontró el ciclo [129, 106, 90, 1] en el tiempo 2.0 para TCA
+Se encontró el ciclo [227, 130, 120, 179, 90, 1] en el tiempo 2.0 para TCA
+Se encontró el ciclo [234, 2, 11, 0] en el tiempo 2.0 para TCA
+Se encontró el ciclo [234, 21, 3, 0] en el tiempo 2.0 para TCA
+se buscan ciclos en el tiempo 4.0 para TCA
+Se encontró el ciclo [110, 157, 20, 15] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [149, 30, 99, 57] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [99, 30, 106, 48, 54] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [73, 98, 108, 86, 79, 151, 32] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [76, 68, 59, 54] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [105, 135, 84, 87] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [129, 64, 138, 1] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [141, 151, 139, 80] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [146, 113, 141, 151, 63] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [124, 126, 30, 99] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [144, 116, 84, 87] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [89, 140, 133, 106, 71] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [31, 87, 1, 2] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [79, 102, 115, 132, 126, 30, 71] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [131, 97, 117, 74] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [141, 151, 79, 71] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [64, 129, 144, 116] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [128, 48, 54, 49] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [59, 156, 87, 1] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [100, 91, 92, 77] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [124, 126, 132, 62, 1] en el tiempo 2.0 para R5P_AMINOACIDS
+Se encontró el ciclo [138, 64, 90, 93, 133, 106, 48, 54] en el tiempo 2.0 para R5P_AMINOACIDS
+se buscan ciclos en el tiempo 4.0 para R5P_AMINOACIDS
+Se encontró el ciclo [130, 37, 125, 132] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [128, 176, 52, 303, 98, 33, 131] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [131, 33, 80, 161] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [31, 156, 3, 69] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [123, 71, 68, 132] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [40, 135, 162, 60] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [127, 36, 93, 5] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [131, 128, 11, 0] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [239, 260, 289, 201] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [28, 110, 77, 5] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [71, 0, 131, 112] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [304, 151, 13, 5] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [27, 131, 38, 159, 55] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [95, 13, 67, 10] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [43, 104, 103, 134, 112] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [53, 7, 304, 132] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [180, 0, 131, 112] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [306, 0, 178, 105] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [131, 137, 298, 27] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [134, 135, 133, 28] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [301, 90, 26, 23, 71, 112] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [116, 105, 57, 10] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [181, 183, 61, 3, 158, 10] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [134, 135, 44, 112] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [19, 48, 116, 50, 101] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [159, 298, 27, 55] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [113, 1, 155, 260, 111, 28] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [68, 157, 19, 5] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [21, 129, 115, 28] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [66, 53, 132, 128, 18] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [301, 289, 260, 111] en el tiempo 4.0 para OXALACETATE_AMINOACIDS
+se buscan ciclos en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [284, 151, 20, 122] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [284, 23, 21, 7] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [156, 67, 281, 80] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [88, 142, 17, 29] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [143, 8, 45, 15] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [124, 112, 17, 7] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [51, 123, 279, 29] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [150, 145, 56, 10] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [150, 146, 128, 10] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [128, 61, 122, 10] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [94, 145, 110, 3] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [145, 139, 58, 56] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [40, 46, 17, 7] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [84, 1, 112, 38] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [58, 1, 20, 10] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [145, 133, 132, 110] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [82, 59, 57, 43] en el tiempo 2.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+se buscan ciclos en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [151, 188, 132, 122, 80, 3] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [151, 8, 141, 163, 70] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [164, 142, 73, 297, 56, 31] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [26, 23, 148, 36, 25] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [294, 229, 18, 26] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [137, 161, 3, 19] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [74, 184, 37, 9, 36, 25] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [263, 60, 145, 128] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [94, 18, 64, 62] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [160, 155, 38, 180, 112] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [225, 235, 129, 100] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [131, 122, 80, 46] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [49, 160, 27, 32] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [295, 104, 31, 47] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [128, 180, 6, 33] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [163, 175, 98, 70] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [290, 114, 28, 9] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [229, 18, 89, 153] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [65, 100, 134, 36, 25] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [153, 1, 104, 33] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [3, 31, 229, 294, 25] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [304, 38, 88, 3] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [20, 66, 88, 65, 17] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [80, 122, 45, 163, 70, 3] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [52, 142, 164, 53] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [52, 157, 20, 53] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [102, 2, 136, 0] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [304, 38, 56, 31] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [137, 56, 47, 19] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [24, 8, 151, 65, 22] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [125, 86, 98, 62] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [153, 290, 114, 33] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [153, 229, 31, 33] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [38, 180, 6, 56] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [100, 99, 80, 3] en el tiempo 2.0 para PYR_THR_AA
+Se encontró el ciclo [80, 46, 53, 3] en el tiempo 2.0 para PYR_THR_AA
+se buscan ciclos en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [101, 147, 105, 79] en el tiempo 2.0 para PPP
+Se encontró el ciclo [166, 163, 101, 79] en el tiempo 2.0 para PPP
+Se encontró el ciclo [142, 138, 4, 0] en el tiempo 2.0 para PPP
+Se encontró el ciclo [55, 174, 3, 27] en el tiempo 2.0 para PPP
+Se encontró el ciclo [57, 152, 97, 145, 0] en el tiempo 2.0 para PPP
+Se encontró el ciclo [160, 107, 128, 136] en el tiempo 2.0 para PPP
+Se encontró el ciclo [106, 135, 112, 78] en el tiempo 2.0 para PPP
+Se encontró el ciclo [169, 162, 106, 82] en el tiempo 2.0 para PPP
+Se encontró el ciclo [175, 34, 9, 2] en el tiempo 2.0 para PPP
+Se encontró el ciclo [172, 171, 99, 95] en el tiempo 2.0 para PPP
+Se encontró el ciclo [168, 160, 136, 78] en el tiempo 2.0 para PPP
+Se encontró el ciclo [87, 116, 154, 114, 54] en el tiempo 2.0 para PPP
+Se encontró el ciclo [121, 124, 112, 78] en el tiempo 2.0 para PPP
+Se encontró el ciclo [161, 128, 107, 75] en el tiempo 2.0 para PPP
+Se encontró el ciclo [175, 174, 55, 2] en el tiempo 2.0 para PPP
+Se encontró el ciclo [145, 39, 2, 0] en el tiempo 2.0 para PPP
+Se encontró el ciclo [175, 58, 25, 2] en el tiempo 2.0 para PPP
+Se encontró el ciclo [136, 123, 116, 78] en el tiempo 2.0 para PPP
+Se encontró el ciclo [174, 111, 166, 79] en el tiempo 2.0 para PPP
+Se encontró el ciclo [37, 114, 120, 42] en el tiempo 2.0 para PPP
+Se encontró el ciclo [79, 105, 3, 21] en el tiempo 2.0 para PPP
+se buscan ciclos en el tiempo 4.0 para PPP
+Se encontró el ciclo [103, 287, 82, 1] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [208, 40, 104, 1] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [161, 122, 151, 112] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [128, 287, 82, 95] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [83, 92, 45, 48] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [27, 73, 2, 63] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [111, 122, 94, 67] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [97, 129, 16, 1] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [116, 3, 115, 5] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [285, 27, 131, 102] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [28, 162, 11, 29] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [287, 103, 28, 29] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [104, 128, 281, 1] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [131, 99, 44, 61] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [165, 210, 18, 1] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [49, 162, 11, 29] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [115, 94, 284, 129, 16] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [281, 164, 148, 7] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [9, 284, 129, 97, 95] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [131, 63, 37, 61] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [151, 122, 111, 26] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [144, 147, 26, 5] en el tiempo 3.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [24, 87, 50, 58, 56] en el tiempo 3.0 para E4P_AMINO_ACIDS
+se buscan ciclos en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [148, 154, 164, 247, 218] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [3, 111, 94, 5] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [192, 221, 171, 147] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [180, 235, 251, 177, 178] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [192, 251, 252, 120, 137, 113] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [58, 137, 13, 7] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [251, 192, 240, 148] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [251, 235, 236, 153] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [19, 141, 132, 7] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [245, 158, 225, 247, 194] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [147, 254, 113, 31] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [31, 147, 194, 126, 93] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [137, 118, 17, 13] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [25, 195, 245, 265, 21] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [17, 15, 108, 13] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [251, 148, 202, 159] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [7, 35, 0, 11] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [147, 254, 235, 245, 194] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [86, 49, 51, 21] en el tiempo 2.0 para Glycolysis
+Se encontró el ciclo [208, 227, 183, 247, 194] en el tiempo 2.0 para Glycolysis
+se buscan ciclos en el tiempo 4.0 para Glycolysis
+Se encontró el ciclo [134, 173, 91, 124] en el tiempo 3.0 para TCA
+Se encontró el ciclo [188, 149, 180, 142] en el tiempo 3.0 para TCA
+Se encontró el ciclo [97, 195, 90, 0] en el tiempo 3.0 para TCA
+Se encontró el ciclo [179, 177, 133, 161, 117, 156] en el tiempo 3.0 para TCA
+Se encontró el ciclo [125, 203, 160, 90] en el tiempo 3.0 para TCA
+Se encontró el ciclo [226, 140, 188, 143, 141, 192] en el tiempo 3.0 para TCA
+Se encontró el ciclo [124, 91, 90, 84] en el tiempo 3.0 para TCA
+Se encontró el ciclo [122, 201, 144, 213, 123] en el tiempo 3.0 para TCA
+Se encontró el ciclo [164, 214, 190, 207, 156] en el tiempo 3.0 para TCA
+Se encontró el ciclo [221, 138, 209, 199] en el tiempo 3.0 para TCA
+Se encontró el ciclo [164, 214, 204, 176, 117, 156] en el tiempo 3.0 para TCA
+Se encontró el ciclo [125, 27, 16, 5] en el tiempo 3.0 para TCA
+Se encontró el ciclo [162, 133, 177, 170, 46] en el tiempo 3.0 para TCA
+Se encontró el ciclo [193, 222, 158, 167] en el tiempo 3.0 para TCA
+Se encontró el ciclo [213, 144, 149, 180, 219] en el tiempo 3.0 para TCA
+Se encontró el ciclo [142, 188, 204, 176, 117, 196] en el tiempo 3.0 para TCA
+Se encontró el ciclo [209, 138, 208, 137] en el tiempo 3.0 para TCA
+Se encontró el ciclo [196, 142, 194, 222, 193, 90] en el tiempo 3.0 para TCA
+Se encontró el ciclo [233, 111, 82, 26] en el tiempo 3.0 para TCA
+Se encontró el ciclo [118, 203, 160, 90] en el tiempo 3.0 para TCA
+Se encontró el ciclo [119, 27, 106, 168] en el tiempo 3.0 para TCA
+Se encontró el ciclo [153, 158, 167, 135, 1, 5] en el tiempo 3.0 para TCA
+Se encontró el ciclo [125, 73, 75, 5] en el tiempo 3.0 para TCA
+Se encontró el ciclo [135, 189, 163, 180, 122, 1] en el tiempo 3.0 para TCA
+Se encontró el ciclo [209, 187, 175, 137] en el tiempo 3.0 para TCA
+Se encontró el ciclo [192, 207, 123, 90] en el tiempo 3.0 para TCA
+Se encontró el ciclo [141, 143, 188, 142, 196, 156] en el tiempo 3.0 para TCA
+Se encontró el ciclo [181, 142, 199, 209, 137] en el tiempo 3.0 para TCA
+se buscan ciclos en el tiempo 5.0 para TCA
+Se encontró el ciclo [153, 85, 64, 93] en el tiempo 3.0 para R5P_AMINOACIDS
+Se encontró el ciclo [88, 142, 108, 73] en el tiempo 3.0 para R5P_AMINOACIDS
+Se encontró el ciclo [108, 142, 105, 16] en el tiempo 3.0 para R5P_AMINOACIDS
+Se encontró el ciclo [98, 74, 88, 122] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [308, 49, 7, 68] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [3, 183, 227, 184, 5] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [3, 31, 36, 5] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [137, 164, 2, 21] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [175, 201, 40, 64] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [106, 35, 54, 184, 5] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [2, 164, 54, 184, 5] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [45, 91, 77, 108] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [234, 175, 39, 138] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [307, 234, 138, 1] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [307, 273, 260, 1] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [179, 144, 178, 88] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [7, 24, 23, 133, 63] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [303, 76, 304, 21] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [157, 102, 127, 5] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [88, 289, 39, 138] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [225, 289, 39, 138] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [233, 179, 88, 138] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [176, 199, 81, 115] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [289, 225, 130, 133] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [47, 45, 108, 5] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [159, 74, 88, 27] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [45, 176, 21, 108] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [239, 187, 59, 63] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [139, 125, 25, 75] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [88, 43, 39, 138] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [3, 155, 28, 5] en el tiempo 5.0 para OXALACETATE_AMINOACIDS
+se buscan ciclos en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [137, 262, 1, 97] en el tiempo 3.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [168, 173, 28, 103] en el tiempo 3.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [111, 17, 21, 18] en el tiempo 3.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [162, 168, 103, 10] en el tiempo 3.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [124, 199, 256, 179, 7] en el tiempo 3.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [83, 132, 3, 38] en el tiempo 3.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [179, 255, 1, 17] en el tiempo 3.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [1, 255, 207, 162, 10] en el tiempo 3.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [280, 55, 83, 38] en el tiempo 3.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [1, 255, 165, 158, 10] en el tiempo 3.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [162, 175, 3, 10] en el tiempo 3.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+se buscan ciclos en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [202, 257, 174, 183] en el tiempo 4.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [161, 76, 131, 65] en el tiempo 4.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [132, 171, 159, 17] en el tiempo 4.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [177, 270, 153, 16] en el tiempo 4.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [179, 183, 213, 1] en el tiempo 4.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [179, 176, 18, 1] en el tiempo 4.0 para E4P_AMINO_ACIDS
+se buscan ciclos en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [103, 139, 209, 143, 63] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [210, 11, 150, 141] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [209, 195, 145, 143] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [202, 122, 53, 14] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [196, 158, 167, 64] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [189, 197, 11, 210, 140] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [149, 188, 201, 75] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [176, 166, 167, 150] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [156, 146, 200, 107] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [141, 150, 185, 128] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [168, 169, 59, 0] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [104, 147, 14, 19] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [179, 171, 14, 19] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [179, 143, 192, 19] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [97, 172, 175, 29] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [104, 127, 52, 27] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [180, 155, 104, 27] en el tiempo 2.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [93, 152, 184, 29] en el tiempo 2.0 para 3PGA_AMINOACIDS
+se buscan ciclos en el tiempo 4.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [92, 8, 159, 155, 45] en el tiempo 3.0 para PPP
+Se encontró el ciclo [175, 101, 83, 0] en el tiempo 3.0 para PPP
+Se encontró el ciclo [45, 163, 116, 82] en el tiempo 3.0 para PPP
+Se encontró el ciclo [19, 35, 18, 2] en el tiempo 3.0 para PPP
+Se encontró el ciclo [160, 155, 79, 53] en el tiempo 3.0 para PPP
+Se encontró el ciclo [81, 129, 114, 42] en el tiempo 3.0 para PPP
+Se encontró el ciclo [132, 163, 116, 69] en el tiempo 3.0 para PPP
+Se encontró el ciclo [119, 141, 58, 17] en el tiempo 3.0 para PPP
+Se encontró el ciclo [120, 148, 36, 16] en el tiempo 3.0 para PPP
+Se encontró el ciclo [144, 129, 114, 112] en el tiempo 3.0 para PPP
+Se encontró el ciclo [81, 148, 120, 42] en el tiempo 3.0 para PPP
+Se encontró el ciclo [23, 65, 4, 2] en el tiempo 3.0 para PPP
+Se encontró el ciclo [163, 137, 154, 116] en el tiempo 3.0 para PPP
+Se encontró el ciclo [88, 109, 81, 42] en el tiempo 3.0 para PPP
+Se encontró el ciclo [140, 173, 80, 47] en el tiempo 3.0 para PPP
+Se encontró el ciclo [81, 158, 167, 42] en el tiempo 3.0 para PPP
+Se encontró el ciclo [36, 80, 47, 16] en el tiempo 3.0 para PPP
+Se encontró el ciclo [36, 109, 88, 16] en el tiempo 3.0 para PPP
+Se encontró el ciclo [168, 155, 117, 59] en el tiempo 3.0 para PPP
+Se encontró el ciclo [36, 144, 112, 16] en el tiempo 3.0 para PPP
+Se encontró el ciclo [174, 21, 28, 0] en el tiempo 3.0 para PPP
+Se encontró el ciclo [36, 130, 127, 80] en el tiempo 3.0 para PPP
+Se encontró el ciclo [276, 206, 222, 291, 153] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [10, 162, 105, 183, 145] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [153, 272, 239, 281, 214, 122, 31] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [268, 182, 148, 1] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [259, 199, 253, 254] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [198, 204, 184, 9] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [146, 191, 197, 217, 132, 104] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [208, 250, 290, 9] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [230, 259, 189, 196] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [208, 273, 189, 219, 288] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [101, 169, 66, 40] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [288, 254, 232, 223] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [264, 239, 245, 279, 213, 186] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [267, 189, 197, 217] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [286, 239, 203, 267] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [240, 228, 253, 201, 213] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [226, 196, 197, 217] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [214, 182, 148, 45] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [243, 259, 189, 267, 187] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [270, 241, 268, 198] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [259, 189, 219, 288, 254] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [292, 201, 253, 199, 210] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [177, 103, 80, 46] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [110, 50, 72, 68] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [268, 241, 250, 1] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [291, 204, 198, 153] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [286, 259, 189, 267] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [208, 273, 267, 272, 290, 9] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [169, 101, 105, 183, 145] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [291, 178, 290, 153] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [286, 259, 264, 239] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [212, 210, 259, 264, 206] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [272, 211, 276, 1] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [228, 254, 259, 230, 226, 216] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [132, 217, 267, 272, 153, 31] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [276, 206, 198, 37] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [199, 259, 264, 239, 281, 238, 252] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [169, 101, 157, 177, 123] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [216, 228, 240, 213] en el tiempo 3.0 para PYR_THR_AA
+Se encontró el ciclo [264, 259, 254, 228, 240, 186] en el tiempo 3.0 para PYR_THR_AA
+se buscan ciclos en el tiempo 5.0 para PYR_THR_AA
+Se encontró el ciclo [212, 144, 142, 181] en el tiempo 4.0 para TCA
+Se encontró el ciclo [207, 228, 138, 199] en el tiempo 4.0 para TCA
+Se encontró el ciclo [186, 205, 154, 137] en el tiempo 4.0 para TCA
+Se encontró el ciclo [175, 223, 151, 136] en el tiempo 4.0 para TCA
+Se encontró el ciclo [111, 176, 124, 17] en el tiempo 4.0 para TCA
+Se encontró el ciclo [228, 225, 203, 160] en el tiempo 4.0 para TCA
+Se encontró el ciclo [197, 128, 124, 217] en el tiempo 4.0 para TCA
+Se encontró el ciclo [167, 53, 8, 5] en el tiempo 4.0 para TCA
+Se encontró el ciclo [175, 136, 149, 181] en el tiempo 4.0 para TCA
+Se encontró el ciclo [214, 138, 199, 156] en el tiempo 4.0 para TCA
+Se encontró el ciclo [55, 163, 1, 0] en el tiempo 4.0 para TCA
+Se encontró el ciclo [231, 4, 100, 17] en el tiempo 4.0 para TCA
+Se encontró el ciclo [228, 207, 190, 174] en el tiempo 4.0 para TCA
+Se encontró el ciclo [136, 151, 204, 117] en el tiempo 4.0 para TCA
+Se encontró el ciclo [185, 151, 223, 154] en el tiempo 4.0 para TCA
+Se encontró el ciclo [215, 151, 223, 154] en el tiempo 4.0 para TCA
+Se encontró el ciclo [157, 190, 148, 181] en el tiempo 4.0 para TCA
+se buscan ciclos en el tiempo 6.0 para TCA
+Se encontró el ciclo [217, 276, 61, 239] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [225, 182, 183, 5] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [217, 292, 260, 239] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [219, 148, 215, 289] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [194, 249, 227, 183] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [252, 292, 260, 239] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [35, 237, 143, 132] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [298, 141, 66, 16] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [215, 171, 168, 289] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [117, 282, 217, 239, 5] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [227, 195, 260, 5] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [117, 197, 272, 138] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [168, 171, 136, 134] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [302, 195, 260, 63] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [79, 182, 183, 5] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [147, 195, 260, 59] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [61, 224, 273, 1] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [234, 195, 260, 1] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [235, 215, 289, 201] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [302, 292, 260, 63] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [201, 277, 220, 173, 64] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [302, 270, 166, 63] en el tiempo 6.0 para OXALACETATE_AMINOACIDS
+se buscan ciclos en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [220, 211, 198, 204] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [231, 232, 167, 153] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [196, 175, 192, 202] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [241, 259, 238, 222] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [174, 246, 148, 159] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [243, 187, 198, 232] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [198, 232, 167, 204] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [148, 246, 167, 204] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [232, 156, 200, 167] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [217, 150, 154, 218] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [154, 147, 193, 244, 179] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [247, 237, 187, 243, 208] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [243, 226, 205, 208] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [245, 151, 63, 135] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [158, 163, 68, 2] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [142, 66, 40, 26] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [158, 214, 172, 138, 68, 2] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [231, 243, 208, 194] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [65, 177, 192, 113] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [246, 184, 232, 167] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [199, 194, 158, 179] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [183, 233, 154, 218] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [238, 243, 168, 178] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [184, 232, 156, 201] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [243, 238, 190, 208] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [175, 193, 170, 253, 176, 120] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [232, 250, 221, 167] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [177, 193, 147, 153] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [168, 236, 180, 178] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [196, 69, 229, 202] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [182, 161, 3, 29] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [186, 155, 250, 218] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [180, 189, 50, 25] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [186, 181, 154, 218] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [225, 201, 161, 152] en el tiempo 3.0 para Glycolysis
+Se encontró el ciclo [228, 200, 221, 6] en el tiempo 3.0 para Glycolysis
+se buscan ciclos en el tiempo 5.0 para Glycolysis
+Se encontró el ciclo [214, 133, 132, 18] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [219, 238, 126, 165] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [259, 195, 239, 165] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [239, 126, 238, 195] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [250, 221, 245, 179] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [243, 256, 238, 126] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [174, 84, 120, 1] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [238, 269, 236, 195] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [255, 288, 231, 179] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [231, 200, 207, 266, 246, 235, 281] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [185, 199, 261, 269, 236, 259, 167] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [185, 199, 242, 133, 132, 167] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [276, 91, 124, 17] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [259, 195, 221, 245, 179, 56] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [235, 193, 219, 165] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [269, 238, 219, 246] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [208, 198, 206, 213, 1] en el tiempo 5.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [265, 240, 12, 264] en el tiempo 5.0 para E4P_AMINO_ACIDS
+se buscan ciclos en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [260, 203, 165, 110] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [245, 220, 234, 203] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [167, 223, 159, 207] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [261, 172, 168, 80] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [168, 227, 205, 25, 10] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [199, 241, 165, 175] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [255, 253, 220, 245, 207] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [178, 225, 159, 162] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [168, 247, 84, 10] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [255, 271, 257, 214, 159] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [207, 171, 2, 10] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [255, 271, 257, 212, 158] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [255, 271, 189, 240, 207] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [212, 241, 165, 150] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [204, 210, 191, 185] en el tiempo 4.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+se buscan ciclos en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [185, 147, 55, 6] en el tiempo 5.0 para TCA
+Se encontró el ciclo [6, 185, 158, 5] en el tiempo 5.0 para TCA
+Se encontró el ciclo [121, 228, 58, 2] en el tiempo 5.0 para TCA
+Se encontró el ciclo [171, 223, 60, 1] en el tiempo 5.0 para TCA
+Se encontró el ciclo [208, 188, 179, 0] en el tiempo 3.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [110, 98, 51, 21] en el tiempo 3.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [124, 110, 21, 5] en el tiempo 3.0 para 3PGA_AMINOACIDS
+Se encontró el ciclo [230, 276, 61, 166] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [164, 269, 237, 132] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [166, 230, 191, 208, 1] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [61, 276, 231, 193, 131] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [249, 275, 111, 99] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [248, 274, 84, 199, 81, 272] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [255, 204, 217, 61] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [267, 230, 62, 29] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [148, 288, 131, 111] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [253, 206, 44, 29] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [241, 292, 232, 185] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [195, 174, 112, 5] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [267, 221, 289, 111] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [288, 228, 81, 110] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [277, 255, 3, 64] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [260, 290, 257, 220, 64] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [292, 232, 179, 111] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [208, 266, 233, 1] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [171, 242, 192, 176, 112] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [275, 290, 260, 111] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [259, 276, 224, 277, 242] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [193, 231, 266, 233, 81] en el tiempo 7.0 para OXALACETATE_AMINOACIDS
+se buscan ciclos en el tiempo 9.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [256, 196, 12, 265, 232, 199] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [185, 209, 247, 199] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [212, 251, 209, 184] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [277, 189, 186, 226, 215, 275, 217] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [275, 225, 191, 174] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [173, 232, 265, 186, 189, 277, 276] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [260, 225, 233, 200] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [208, 204, 185, 167] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [90, 249, 135, 1] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [253, 275, 179, 153] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [199, 256, 126, 197] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [277, 203, 219, 158] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [182, 237, 267, 153] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [263, 264, 232, 185] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [275, 252, 277, 217] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [185, 209, 230, 274, 236] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [197, 273, 227, 1] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [217, 277, 203, 200] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [260, 191, 231, 200] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [194, 237, 267, 153] en el tiempo 6.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [276, 224, 219, 181] en el tiempo 6.0 para E4P_AMINO_ACIDS
+se buscan ciclos en el tiempo 8.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [197, 219, 154, 152] en el tiempo 4.0 para Glycolysis
+Se encontró el ciclo [257, 12, 248, 259] en el tiempo 4.0 para Glycolysis
+Se encontró el ciclo [67, 258, 86, 10] en el tiempo 4.0 para Glycolysis
+Se encontró el ciclo [70, 215, 252, 113] en el tiempo 4.0 para Glycolysis
+Se encontró el ciclo [186, 257, 196, 202] en el tiempo 4.0 para Glycolysis
+Se encontró el ciclo [210, 161, 119, 176] en el tiempo 4.0 para Glycolysis
+Se encontró el ciclo [170, 243, 251, 120] en el tiempo 4.0 para Glycolysis
+Se encontró el ciclo [196, 242, 170, 120] en el tiempo 4.0 para Glycolysis
+Se encontró el ciclo [210, 187, 253, 176] en el tiempo 4.0 para Glycolysis
+Se encontró el ciclo [183, 193, 195, 208, 33] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [249, 292, 135, 39] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [266, 72, 57, 185] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [72, 106, 66, 19] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [198, 270, 192, 39] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [251, 282, 200, 166] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [241, 268, 274, 207] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [272, 264, 284, 152, 9] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [72, 266, 96, 40] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [277, 195, 208, 22] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [282, 251, 248, 214] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [57, 193, 183, 101] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [289, 256, 209, 175] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [123, 287, 251, 166, 24] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [205, 280, 217, 187] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [253, 12, 245, 213] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [5, 138, 103, 80] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [250, 171, 135, 9] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [217, 280, 114, 31] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [1, 271, 199, 84, 74] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [170, 287, 267, 31] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [72, 266, 287, 170, 19] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [292, 212, 173, 85] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [242, 168, 274, 233] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [261, 289, 175, 45] en el tiempo 4.0 para PYR_THR_AA
+Se encontró el ciclo [260, 242, 222, 153] en el tiempo 4.0 para PYR_THR_AA
+se buscan ciclos en el tiempo 6.0 para PYR_THR_AA
+Se encontró el ciclo [242, 209, 97, 13] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [223, 210, 249, 233, 159] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [185, 180, 256, 165, 204] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [237, 167, 187, 190] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [228, 238, 251, 200] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [148, 149, 228, 238, 190] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [223, 264, 191, 204] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [238, 197, 187, 190] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [271, 264, 167, 207] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [229, 201, 223, 204] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [148, 201, 251, 238, 190] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [182, 265, 135, 3] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [223, 207, 165, 204] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [237, 167, 175, 56] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [158, 275, 78, 0] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [195, 192, 187, 185] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [222, 206, 201, 237, 56] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [148, 223, 159, 132] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [148, 223, 204, 190] en el tiempo 5.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+se buscan ciclos en el tiempo 7.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [202, 262, 226, 217] en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [273, 223, 201, 183] en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [271, 79, 223, 273] en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [12, 223, 273, 199] en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [209, 247, 171, 1] en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [260, 196, 264, 139] en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [256, 196, 221, 195] en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [172, 223, 12, 265] en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [262, 196, 221, 227] en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [247, 199, 265, 139] en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [260, 217, 186, 139] en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [209, 226, 275, 153] en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [180, 192, 179, 1] en el tiempo 7.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [193, 196, 199, 132] en el tiempo 7.0 para E4P_AMINO_ACIDS
+se buscan ciclos en el tiempo 9.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [232, 293, 209, 273] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [193, 191, 166, 28] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [237, 149, 198, 54] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [275, 280, 181, 63] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [278, 210, 275, 27] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [29, 206, 214, 257, 64] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [243, 265, 126, 120] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [280, 259, 220, 181] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [107, 222, 134, 115] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [192, 261, 91, 112] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [84, 167, 175, 272] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [179, 204, 61, 63] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [85, 285, 195, 5] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [281, 283, 214, 204] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [242, 210, 278, 112] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [257, 279, 261, 260] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [185, 241, 286, 203, 12, 218, 207, 271, 272] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [244, 281, 204, 61] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [268, 279, 148, 43] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [268, 279, 211, 162] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [206, 287, 265, 126, 29] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [180, 238, 147, 64] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [259, 223, 283, 281, 242] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [253, 238, 180, 29] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [215, 204, 263, 279, 148] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [257, 245, 255, 64] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [255, 204, 214, 257, 64] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [126, 265, 254, 198, 54] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [244, 295, 231, 61] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [278, 256, 275, 27] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [107, 251, 9, 115] en el tiempo 8.0 para OXALACETATE_AMINOACIDS
+se buscan ciclos en el tiempo 10.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [243, 187, 167, 175] en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [163, 269, 247, 173] en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [188, 268, 185, 190] en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [274, 273, 209, 13] en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [210, 268, 270, 159] en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [236, 250, 202, 119] en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [274, 163, 119, 13] en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [253, 238, 148, 162] en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [72, 190, 99, 40] en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [238, 77, 72, 190] en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [239, 193, 228, 190] en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [251, 226, 167, 190] en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [188, 189, 167, 190] en el tiempo 6.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+se buscan ciclos en el tiempo 8.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [82, 78, 105, 53] en el tiempo 5.0 para PYR_THR_AA
+Se encontró el ciclo [191, 81, 138, 123] en el tiempo 5.0 para PYR_THR_AA
+Se encontró el ciclo [197, 78, 105, 39] en el tiempo 5.0 para PYR_THR_AA
+Se encontró el ciclo [207, 240, 223, 183] en el tiempo 8.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [217, 252, 172, 139] en el tiempo 8.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [187, 221, 189, 139] en el tiempo 8.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [79, 229, 209, 255] en el tiempo 8.0 para E4P_AMINO_ACIDS
+Se encontró el ciclo [285, 250, 292, 5] en el tiempo 9.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [295, 286, 272, 1] en el tiempo 9.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [12, 285, 307, 272] en el tiempo 9.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [86, 287, 29, 65] en el tiempo 9.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [276, 246, 188, 16] en el tiempo 9.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [284, 246, 276, 195] en el tiempo 9.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [238, 294, 214, 64] en el tiempo 9.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [12, 205, 148, 272] en el tiempo 9.0 para OXALACETATE_AMINOACIDS
+se buscan ciclos en el tiempo 11.0 para OXALACETATE_AMINOACIDS
+Se encontró el ciclo [219, 231, 222, 29] en el tiempo 7.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [170, 197, 148, 3] en el tiempo 7.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [72, 259, 81, 13] en el tiempo 7.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [194, 193, 230, 55] en el tiempo 7.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+se buscan ciclos en el tiempo 9.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [197, 263, 173, 3] en el tiempo 8.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+se buscan ciclos en el tiempo 11.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [4, 127, 136, 0] en el tiempo 10.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+se buscan ciclos en el tiempo 12.0 para ALPHAKETOGLUTARATE_AMINOACIDS
+Se encontró el ciclo [127, 14, 258, 0] en el tiempo 11.0 para ALPHAKETOGLUTARATE_AMINOACIDS
