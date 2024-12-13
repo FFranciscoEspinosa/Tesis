@@ -29,14 +29,10 @@ info=info.loc[:,0:1]
 names=pd.read_csv('data/Actinos.ids',sep='\t',dtype='object',header=None)
 info_by_pathway_and_genomes_directions=get_info_by_pathway_and_all_genomes_directions(info)
 df_by_pathway,df_by_pathway_drop_duplicate,representative_genomes=get_df_by_pathway(info_by_pathway_and_genomes_directions)
-
-
-#df_by_genus_pathway,df_by_genus_pathway_drop_duplicate,representative_genomes_genus_pathway=get_df_by_genus_pathway(df_by_pathway,names)
+df_by_genus_pathway,df_by_genus_pathway_drop_duplicate,representative_genomes_genus_pathway=get_df_by_genus_pathway(df_by_pathway,names)
 complex_genus_pathways=get_complex_by_pathways(df_by_genus_pathway_drop_duplicate)
+holes=get_holes_by_pathways(complex_genus_pathways,df_by_genus_pathway_drop_duplicate)
 
-#df_by_genus_pathway,df_by_genus_pathway_drop_duplicate,representative_genomes_genus_pathway=get_df_by_genus_pathway(df_by_pathway,names)
-#complex_genus_pathways=get_complex_by_pathways(df_by_genus_pathway_drop_duplicate)
-#holes_by_genus_pathway=get_holes_by_pathways(complex_genus_pathways,df_by_genus_pathway_drop_duplicate)
 
 f = open("los1246.txt", "w")
 f.write(str(holes))
