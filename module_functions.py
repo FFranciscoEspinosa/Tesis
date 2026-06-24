@@ -22,67 +22,67 @@ import module_functions as fun
 
 
 #Obtener dataframes
-################################################################################################################################################################
-def get_info_by_pathway_and_all_genomes_directions(info):
-    data_frames={}
-    pathways=set()
-    directions={}
-    genome_directions={}
-    for i in range(info.shape[0]):
-        #Revisar si se debe separar esto
-        #pathway=info.loc[i,0].split('|')[0].strip('\ufeff')
-        pathway=info.loc[i,0].split('|')[0]
-        if pathway not in directions.keys():
-            directions[pathway]=[i]
-        else:
-            directions[pathway].append(i)
-        #Se cambia la primer columna, para tener los genes
-        gen_with_number=info.loc[i,0].split('|')[2]
-        gen=gen_with_number[0:gen_with_number.rfind('_')]
-        info.loc[i,0]=gen
-        #Se obtienen los genomas
-        genome=info.loc[i,1].split('|')[2]
-        if genome not in genome_directions.keys():
-            genome_directions[genome]=[i]
-        else:
-            genome_directions[genome].append(i)
 
+################################################################################################################################################################
+def get_df_by_pathway(info, minimum_score=100):
     
-    for pathway in directions.keys():
-        data_frames[pathway]=info.loc[directions[pathway],:]
-    return data_frames,genome_directions
-################################################################################################################################################################
-def get_df_by_pathway(info_by_pathway_and_genomes_directions):
-    info_by_pathway=info_by_pathway_and_genomes_directions[0]
-    genomes_directions=info_by_pathway_and_genomes_directions[1]
+    info_copy=info[info[11]>=minimum_score].copy()
+    info_copy.reset_index(drop=True,inplace=True)
+    info_copy=info_copy.loc[:,0:1]
 
+    # Crear las series a partir de info
+    pathways_series = info_copy[0].str.split('|').str[0]
+    gene_series = info_copy[0].str.split('|').str[2].str.rsplit('_',1).str[0]
+    genome_series = info_copy[1].str.split('|').str[2]
+    #Esta columna gen_ident_series sirve para diferenciar las diferentes coincidencias de un mismo gen en un genoma pero 
+    # que estén en posiciones diferentes
+    gen_ident_series = info_copy[1].str.split('|').str[1]
 
-    df_by_pathway={}
+    # Crear DataFrame depurado
+    depurated_info = pd.DataFrame(dict(path=pathways_series, gene=gene_series, genome=genome_series,ident_gene=gen_ident_series))
+
+    #Como para encontrar coincidencia de genes se hacen 4 pruebas, al hacer esto, 
+    #en la columna gen_ident_series se descartan contar dos o más veces mismo gen, misma coincidencia y misma posición
+    depurated_info.drop_duplicates(inplace=True)
+    # Diccionario para almacenar los DataFrames por cada pathway
+    df_per_path = {}
     df_by_pathway_drop_duplicates={}
     representative_genomes_by_pathway={}
 
-    for path in info_by_pathway.keys():
-        info_path=info_by_pathway[path]
-        genes=set(info_by_pathway[path][0].values)
-        df=pd.DataFrame(index=genomes_directions.keys(),columns=list(genes))
-        df.index.name=path
+    # Recorrer cada pathway único
+    for path in set(pathways_series.values):
+        # Filtrar las filas para el pathway actual y eliminar la columna 'path'
+        depured_path = depurated_info[depurated_info['path'] == path].drop(columns='path')
+
+        # Obtener el conjunto de genes asociados a este pathway
+        genes_in_path = set(depured_path['gene'].values)
         
-        for gen in genes:
-            info_path_and_gen=info_path[info_path[0]==gen]
-            for genom in genomes_directions.keys():
-                direction=set(genomes_directions[genom]) & set(info_path_and_gen.index) 
-                genomes_per_gen=info_path_and_gen.loc[list(direction)]
-                uniq_genomes_per_gen=genomes_per_gen[1].drop_duplicates()
-                df.loc[genom,gen]=uniq_genomes_per_gen.shape[0]
+        # Crear un DataFrame vacío para el pathway actual, con los genomas como índice
+        df_per_path[path] = pd.DataFrame(index=set(genome_series.values))
+        df_per_path[path].index.name = path
 
-        df.sort_index(inplace=True)
+        # Contar los genomas para cada gen en el pathway
+        for actual_gene in genes_in_path:
+            # Filtrar las filas para el gen actual y eliminar la columna 'gene'
+            gen_per_path = depured_path[depured_path['gene'] == actual_gene].drop(columns='gene')
 
-        df_by_pathway[path]=df
-        df_by_pathway_drop_duplicates[path]=df.drop_duplicates()
+            #Aquí se usa la última fila para filtrar las coincidencias de genes que tengan al menos un 
+            gen_per_path.drop_duplicates(inplace=True)
+            
+            # Contar los genomas y asignarlos a la columna correspondiente
+            df_per_path[path][actual_gene] = gen_per_path['genome'].value_counts()
+
+        # Llenar los valores faltantes con 0
+        df_per_path[path].fillna(0, inplace=True)
+
+        df_per_path[path].sort_index(inplace=True)
+
+        df_by_pathway_drop_duplicates[path]=df_per_path[path].drop_duplicates()
         
-        representative_genomes_by_pathway[path]=get_respresentants_drop_duplicated_df(df)
+        representative_genomes_by_pathway[path]=get_respresentants_drop_duplicated_df(df_per_path[path])
 
-    return df_by_pathway, df_by_pathway_drop_duplicates, representative_genomes_by_pathway
+    return df_per_path, df_by_pathway_drop_duplicates, representative_genomes_by_pathway
+
 ################################################################################################################################################################
 def get_respresentants_drop_duplicated_df(df):
     df.sort_index(inplace=True)
@@ -367,19 +367,23 @@ def find_all_cycles(complex_dict):
     born=born_and_number.keys()
     ciclos_dep=set()
     filtration=0
+    holes_per_filt_lvl=dict()
+    
     for simplex, filt in simplex_tree.get_filtration():
         #if len(ciclos_dep)==num_holes:
          #   break
         
         if filtration!=filt and filtration in born:
             number=born_and_number[filtration]
-
             print('se buscan ciclos en el tiempo', filt,'para',complex_path)
+
+            holes_per_filt_lvl[filtration]=[]
             ciclos=minimum_cycle_basis(G,total=number)
             for ciclo in ciclos:
                 if len(ciclo)>3:
                     print('Se encontró el ciclo',ciclo,'en el tiempo', filtration,'para',complex_path)
                     ciclos_dep.add(tuple(ciclo))
+                    holes_per_filt_lvl[filtration].append(tuple(ciclo))
                     #Se llena el hoyo
                     for i in ciclo:
                         for j in ciclo:
@@ -396,9 +400,10 @@ def find_all_cycles(complex_dict):
     #f = open(direc, "a")
     #f.write(str(ciclos_dep))
     #f.close()
-        
 
-    return [complex_path,ciclos_dep]
+    print("Terminó la ruta ", complex_path)
+
+    return complex_path,ciclos_dep,holes_per_filt_lvl
 ################################################################################################################################################################    
 def born_filtraton_value_holes(persistence):
     born=[]
@@ -428,14 +433,22 @@ def get_holes_by_pathways(complex_by_path,df_by_pathway_drop_duplicate):
             futures.append(future)
         for f in futures:
             result_list.append(f.result())
-    holes_by_pathway=dict(result_list)
+
+    if result_list==[]:
+        return empty,empty,empty
+    
+    holes_by_pathway=dict(zip(list(np.asanyarray(result_list)[:,0]),list(np.asanyarray(result_list)[:,1])))
     holes_by_pathway.update(empty)
 
-    holes_by_path=change_vertex_to_code_per_path(holes_by_pathway,df_by_pathway_drop_duplicate)
+    holes_by_filt_lvl=dict(zip(list(np.asanyarray(result_list)[:,0]),list(np.asanyarray(result_list)[:,2])))
+    holes_by_filt_lvl.update(empty)
 
+    holes_by_path_with_names=change_vertex_to_code_per_path(holes_by_pathway,df_by_pathway_drop_duplicate)
+    holes_by_path_with_names.update(empty)
+    #holes_by_path_no_names=holes_by_pathway
 
     
-    return holes_by_path
+    return holes_by_pathway,holes_by_path_with_names,holes_by_filt_lvl
 ################################################################################################################################################################
 def change_vertex_to_code_per_path(holes_by_pathway,df_by_pathway_drop_duplicate):
     
@@ -495,7 +508,81 @@ def change_vertex_to_names_per_path(holes_by_pathway,names):
         new_holes_by_path[path]=new_holes
     return new_holes_by_path
 ################################################################################################################################################################
+def find_all_cycles_no_fill(complex_dict):
+    complex_path=complex_dict[0]
+    persistence,simplex_tree=complex_dict[1]
 
+    G=nx.Graph()
+
+    ciclos_dep=set()
+    filtration=0
+    holes_per_filt_lvl=dict()
+    
+    for simplex, filt in simplex_tree.get_filtration():
+        #if len(ciclos_dep)==num_holes:
+         #   break
+        
+        if filtration!=filt:
+            print('se buscan ciclos en el tiempo', filt,'para',complex_path)
+
+            holes_per_filt_lvl[filtration]=[]
+            ciclos=minimum_cycle_basis(G)
+            for ciclo in ciclos:
+                if len(ciclo)>3:
+                    print('Se encontró el ciclo',ciclo,'en el tiempo', filtration,'para',complex_path)
+                    ciclos_dep.add(tuple(ciclo))
+                    holes_per_filt_lvl[filtration].append(tuple(ciclo))
+                            
+            
+        filtration=filt
+        
+        if len(simplex)==2:
+            G.add_edge(simplex[0], simplex[1])
+
+
+    #direc='pseudomonas_'+complex_path+'.txt'
+    #f = open(direc, "a")
+    #f.write(str(ciclos_dep))
+    #f.close()
+
+    print("Terminó la ruta ", complex_path)
+
+    return complex_path,ciclos_dep,holes_per_filt_lvl
+################################################################################################################################################################
+def get_holes_by_pathways_no_fill(complex_by_path,df_by_pathway_drop_duplicate):
+    non_empty={}
+    empty={}
+    
+    for path,comp in complex_by_path.items():
+        if comp[0][0][0]==1:
+            non_empty[path]=comp
+        else:
+            empty[path]=[]
+
+    result_list=[]
+    with ThreadPoolExecutor() as executor:
+        futures=[]
+        for item in list(non_empty.items()):
+            future = executor.submit(find_all_cycles_no_fill, item)
+            futures.append(future)
+        for f in futures:
+            result_list.append(f.result())
+
+    if result_list==[]:
+        return empty,empty,empty
+    
+    holes_by_pathway=dict(zip(list(np.asanyarray(result_list)[:,0]),list(np.asanyarray(result_list)[:,1])))
+    holes_by_pathway.update(empty)
+
+    holes_by_filt_lvl=dict(zip(list(np.asanyarray(result_list)[:,0]),list(np.asanyarray(result_list)[:,2])))
+    holes_by_filt_lvl.update(empty)
+
+    holes_by_path_with_names=change_vertex_to_code_per_path(holes_by_pathway,df_by_pathway_drop_duplicate)
+    holes_by_path_with_names.update(empty)
+    #holes_by_path_no_names=holes_by_pathway
+
+    
+    return holes_by_pathway,holes_by_path_with_names,holes_by_filt_lvl
 
 
 
@@ -589,64 +676,119 @@ def get_df_by_pathway_make_hole_droped_cols(df_by_pathway_drop_duplicate,holes_b
 
 #Graficar
 ################################################################################################################################################################
-def visualize_simplicial_complex(simplex_tree, filtration_value, path, family,vertex_names=None, save_filename=None, plot_size=1, dpi=600, pos=None):
+def visual_complex(simplex_tree, filtration_value, title, cycles=None, vertex_names=None, save_filename=None):
+    # Construcción del grafo asociado al complejo simplicial
     G = nx.Graph()
-    triangles = []  # List to store triangles (3-nodes simplices)
-    
+    triangles = []  # Lista para almacenar triángulos (simplices de 3 nodos)
+    edges = []
+    prueba = True
+    filt_lvls=np.asanyarray(list(simplex_tree.get_filtration()),dtype=object)[:,1]
+    first_filt_lvl_no_zero=filt_lvls[filt_lvls>0].max()/3
+
     for simplex, filt in simplex_tree.get_filtration():
+        if len(simplex) == 1:
+            G.add_node(simplex[0])
+        if len(simplex) == 2:
+            G.add_edge(simplex[0], simplex[1])
+        if filt > first_filt_lvl_no_zero and prueba:
+            pos = nx.spring_layout(G, dim=2, seed=42)
+            prueba = False
+                
         if filt <= filtration_value:
             if len(simplex) == 2:
-                G.add_edge(simplex[0], simplex[1])
-            elif len(simplex) == 1:
-                G.add_node(simplex[0])
+                edges.append(simplex)
             elif len(simplex) == 3:
                 triangles.append(simplex)
+
+    if prueba==True:
+        pos = nx.spring_layout(G, dim=2, seed=42)
     
-    # Calculate node positions if not provided
-    if pos is None:
-        pos = nx.spring_layout(G,dim=2)
-    
-    # Node trace
-    x_values, y_values = zip(*[pos[node] for node in G.nodes()])
-    node_labels = [vertex_names[node] if vertex_names else str(node) for node in G.nodes()]
-    node_trace = go.Scatter(x=x_values, y=y_values, mode='markers+text', hoverinfo='text', marker=dict(size=14), text=node_labels, textposition='top center', textfont=dict(size=14))
-        # Edge traces
-    edge_traces = []
-    for edge in G.edges():
-        x0, y0 = pos[edge[0]]
-        x1, y1 = pos[edge[1]]
-        edge_trace = go.Scatter(x=[x0, x1, None], y=[y0, y1, None], mode='lines', line=dict(width=3, color='rgba(0,0,0,0.5)'))
-        edge_traces.append(edge_trace)
-    
-    # Triangle traces
+    # Graficar triángulos
     triangle_traces = []
     for triangle in triangles:
         x0, y0 = pos[triangle[0]]
         x1, y1 = pos[triangle[1]]
         x2, y2 = pos[triangle[2]]
-        triangle_trace = go.Scatter(x=[x0, x1, x2, x0, None], y=[y0, y1, y2, y0, None], fill='toself', mode='lines+markers', line=dict(width=2), fillcolor='rgba(255,0,0,0.2)')
+        triangle_trace = go.Scatter(x=[x0, x1, x2, x0, None], y=[y0, y1, y2, y0, None], fill='toself', mode='lines', line=dict(width=0), fillcolor='rgba(255,0,0,0.1)')
         triangle_traces.append(triangle_trace)
-    titulo='Complejo simplicial de la ruta '+path+' en '+family+' para nivel de filtración '+str(filtration_value)
-    # Configure the layout of the plot
-    layout = go.Layout(showlegend=False, hovermode='closest', xaxis=dict(showgrid=False, zeroline=False, tickfont=dict(size=16, family='Arial, sans-serif')), yaxis=dict(showgrid=False, zeroline=False, tickfont=dict(size=16, family='Arial, sans-serif')),title=dict(
-            text=titulo ,
+
+    # Graficar ciclos
+    cycle_traces = []
+    if cycles is not None:
+        if filtration_value in cycles.keys():
+            cycles_at_lvl_filt = cycles[filtration_value]
+            for cycle in cycles_at_lvl_filt:
+                x = []
+                y = []
+                for v in cycle:
+                    coords = pos[v]
+                    x.append(coords[0])
+                    y.append(coords[1])
+                x.append(None)
+                y.append(None)
+                cycle_trace = go.Scatter(x=x, y=y, fill='toself', mode='lines', line=dict(width=0), fillcolor='rgba(0,255,0,0.1)')
+                cycle_traces.append(cycle_trace)
+
+    # Graficar nodos
+    x_values, y_values = zip(*[pos[node] for node in G.nodes()])
+    node_labels = [vertex_names[node] if vertex_names else str(node) for node in G.nodes()]
+    node_trace = go.Scatter(x=x_values, y=y_values, mode='markers+text', hoverinfo='text', marker=dict(size=14, color='black'), text=node_labels, textposition='bottom left', textfont=dict(size=14))
+    
+    # Graficar aristas
+    edge_traces = []
+    for edge in edges:
+        x0, y0 = pos[edge[0]]
+        x1, y1 = pos[edge[1]]
+        edge_trace = go.Scatter(x=[x0, x1, None], y=[y0, y1, None], mode='lines', line=dict(width=3, color='rgba(0,0,0,1)'))
+        edge_traces.append(edge_trace)
+
+
+    # Configurar el layout del gráfico (sin ejes coordenados)
+    layout = go.Layout(
+        showlegend=False,
+        hovermode='closest',
+        xaxis=dict(
+            showgrid=False,  # Sin cuadrícula
+            zeroline=False,  # Sin línea cero
+            showline=False,  # Sin línea del eje
+            ticks='',  # Sin marcas en el eje X
+            visible=False  # Ocultar el eje X
+        ),
+        yaxis=dict(
+            showgrid=False,  # Sin cuadrícula
+            zeroline=False,  # Sin línea cero
+            showline=False,  # Sin línea del eje
+            ticks='',  # Sin marcas en el eje Y
+            visible=False  # Ocultar el eje Y
+        ),
+        title=dict(
+            text=title,
             x=0.5,
             xanchor='center',
             font=dict(size=24, family='Arial, sans-serif')
-        ))
-    fig = go.Figure(data=edge_traces + triangle_traces + [node_trace], layout=layout)
+        ),
+        paper_bgcolor='white',  # Fondo blanco
+        plot_bgcolor='white'    # Fondo blanco en el área del gráfico
+    )
+
+    fig = go.Figure(data=edge_traces + triangle_traces + [node_trace] + cycle_traces, layout=layout)
+
     
-    # Set the figure size
+
+    # Establecer el tamaño de la figura
+    plot_size=1
+    dpi=600
     fig.update_layout(width=plot_size * dpi, height=plot_size * dpi)
-    
 
-    # Show the figure
-    #fig.write_image('M.png')
-    filename=path+'_'+family+'_t_'+str(filtration_value)+'.html'
+    # Mostrar la figura
+    filename = f'{title}.html'
     plotly.offline.plot(fig, filename=filename)
-    
 
-    return type(fig) 
+    # Guardar la figura como SVG (si se especifica un nombre de archivo)
+    if save_filename:
+        fig.write_image(f"{save_filename}.svg", format="svg", width=plot_size * dpi, height=plot_size * dpi)
+
+    return fig
 ################################################################################################################################################################
 
 
